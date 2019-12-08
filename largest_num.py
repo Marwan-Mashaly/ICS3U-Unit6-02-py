@@ -2,7 +2,7 @@
 
 # Created by Marwan Mashaly
 # Created on October 2019
-# This program rounds decimal numbers to a decimal point
+# This program finds the largest number in the list of numbers given
 
 import random
 
